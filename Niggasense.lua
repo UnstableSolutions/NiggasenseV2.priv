@@ -1,3 +1,3 @@
-niggabawls = "Nigga sense is down please wait for a update."
+niggabawls = "Niggasense.priv is down please wait for a update."
 
 print(niggabawls)
