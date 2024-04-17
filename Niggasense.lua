@@ -1,1 +1,3 @@
-print(Niggasense is down at the moment. please wait for a update)
+niggabawls = "Nigga sense is down please wait for a update."
+
+print(niggabawls)
